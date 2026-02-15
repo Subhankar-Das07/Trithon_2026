@@ -1,0 +1,58 @@
+# Data files
+*.csv
+*.parquet
+*.pkl
+*.h5
+*.npy
+
+# Model checkpoints
+*.pt
+*.pth
+!best_model.pt   # if you want to keep the final model
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+conda_env.yaml
+binding_project_env/
+
+# Data files
+*.csv
+*.parquet
+*.pkl
+*.h5
+*.npy
+
+# Model checkpoints
+*.pt
+*.pth
+!best_model.pt   # if you want to keep the final model
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+conda_env.yaml
+binding_project_env/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db# 
